@@ -1,0 +1,12 @@
+header h2 {
+    font-family: 'Sofia', cursive;
+    font-weight:bold;
+}
+
+header p {
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+#border {
+    border-image-repeat: repeat;
+  }
